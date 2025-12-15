@@ -38,7 +38,7 @@
   </div>
 </nav>
 
-<!-- Hero Section -->
+<!-- Hero -->
 <section id="home" class="hero text-center">
   <div class="container">
     <h1 class="display-4">Welcome to My One-Page Site</h1>
