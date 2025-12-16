@@ -60,7 +60,7 @@
 </head>
 <body>
 
-<!-- Sidebar -->
+<!-- Side-bar -->
 <div class="sidebar position-fixed" id="sidebar">
   <h5 class="text-white text-center py-3 border-bottom">My Dashboard</h5>
   <a href="#" class="active"><i class="bi bi-speedometer2 me-2"></i> Dashboard</a>
