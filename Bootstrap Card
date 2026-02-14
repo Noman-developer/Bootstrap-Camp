@@ -14,7 +14,7 @@
             font-family: "Segoe UI", system-ui, sans-serif;
         }
 
-        .card-custom {
+        .card-custom { 
             border: none;
             border-radius: 14px;
             overflow: hidden;
